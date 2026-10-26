@@ -214,4 +214,4 @@ Harmony Isle is provided as a complete free version with all features and update
 Dive into the world of Harmony Isle today, and make your islanders the happiest they can be! Download now and start your adventure!
 
 ---
-**Last updated:** 2026-10-25 23:05:02 UTC
+**Last updated:** 2026-10-26 03:56:47 UTC
